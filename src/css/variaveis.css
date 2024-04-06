@@ -1,0 +1,7 @@
+:root {
+    --verde-neon:  hsl(150, 100%, 66%);
+    --ciano-claro: hsl(193, 38%, 86%);
+    --azul-acinzentado: hsl(217, 19%, 24%);
+    --azul-escuro:  hsl(218, 23%, 16%);
+    --fonte-padrao: 28px;
+}
