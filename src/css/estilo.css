@@ -19,7 +19,7 @@ body {
 }
 
 .conteudo {
-    width:  28.125rem; 
+    width:  29rem; 
     gap: 16px;
     display: flex;
     align-items: center;
@@ -53,8 +53,8 @@ p {
 
 button {
     border: none;
-    padding: 15px;
-    border-radius: 25px;
+    padding: 18px;
+    border-radius: 30px;
     position: absolute;
     top: 94%;
     background-color: var(--verde-neon);
